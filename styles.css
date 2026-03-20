@@ -1,1 +1,46 @@
+/* Estilos generales accesibles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
 
+/* Encabezado */
+header {
+    background-color: #222;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Contenido principal */
+main {
+    padding: 20px;
+}
+
+/* Secciones */
+section {
+    margin-bottom: 20px;
+}
+
+/* Links accesibles */
+a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background-color: #222;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
